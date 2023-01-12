@@ -35,8 +35,9 @@ alert(s);
 
 </div>
 
-<br><br>
+<br>
 
+<!--
 <div align="center" style="display: flex;>
 
   <a href="https://github.com/liamperfil">
@@ -44,8 +45,8 @@ alert(s);
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liamperfil&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
-
 <br>
+-->
 
 ## Fale comigo
 <div> 
