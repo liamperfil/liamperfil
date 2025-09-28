@@ -2,7 +2,7 @@
 
 ### Sou Entusiasta de Programação Back-End
 
-- 🟢 Estou disponível no momento
+- 🟢 Estou disponível neste momento
 - 📫 Entre em contato comigo: jeancarlos.ramos@live.com
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente no Programa Futuro Digital Back-End Python
