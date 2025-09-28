@@ -2,9 +2,10 @@
 
 ### Backend Developer
 
-- 🟢 I am currently available
-- 📫 How to reach me: jeancarlos.ramos@live.com
-- 🎓 Degree in Systems Analysis and DevelopmentSoftware
+- 🟢 Estou disponível no momento
+- 📫 Entre em contato comigo: jeancarlos.ramos@live.com
+- 🎓 Graduação em Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente no Programa Futuro Digital Back-End Python
 
 | [![C++](https://img.icons8.com/?size=40&id=40669&format=png)](#)  [![python](https://img.icons8.com/?size=40&id=13441&format=png)](#)  [![Ai](https://img.icons8.com/?size=40&id=qa9IVSloJ4wz&format=png)](#)  [![php](https://img.icons8.com/?size=40&id=plPz67QUdeWA&format=png)](#)  [![mariadb](https://img.icons8.com/?size=40&id=DakakaPez2uy&format=png)](#)
 | ----
