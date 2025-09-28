@@ -1,6 +1,6 @@
-## Hi there 👋
+## Seja bem-vindo(a) ao meu portfólio técnico. 👋
 
-### Backend Developer
+### Sou Estudante Desenvolvedor Backend
 
 - 🟢 Estou disponível no momento
 - 📫 Entre em contato comigo: jeancarlos.ramos@live.com
