@@ -1,4 +1,4 @@
-## Seja bem-vindo(a) ao meu portfólio técnico. 👋
+## Seja bem-vindo(a) ao meu perfil github. 👋
 
 ### Sou Estudante Desenvolvedor Backend
 
