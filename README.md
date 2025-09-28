@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a) ao meu perfil github. 👋
 
-### Sou Estudante Desenvolvedor Backend
+### Sou Entusiasta de Programação Back-End
 
 - 🟢 Estou disponível no momento
 - 📫 Entre em contato comigo: jeancarlos.ramos@live.com
